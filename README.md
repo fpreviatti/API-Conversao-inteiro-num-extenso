@@ -1,4 +1,4 @@
-# Aplicativo para realizar a conversão do path de um número inteiro retornando o valor escrito por extenso. Ex: localhost:8080/1000  -> Retorna um arquivo JSON com chave "extenso" e conteúdo "mil"
+# Aplicativo para realizar a conversão do path de um número inteiro retornando o valor escrito por extenso. Ex: get para: localhost:8080/1000  -> Retorna um arquivo JSON com chave "extenso" e conteúdo "mil"
 
 Realize o git clone do projeto e execute os seguintes comandos no git bash aberto:
 
