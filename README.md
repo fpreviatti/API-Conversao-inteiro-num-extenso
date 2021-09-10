@@ -11,3 +11,5 @@ Realize o git clone do projeto e execute os seguintes comandos no git bash abert
 Testes:
 
 Com um software de testes instalado na máquina e com a aplicação rodando, rode um get para o endereço http://localhost:8080/ inserindo o numero no final da URL, conforme o exemplo abaixo feito utilizando o software de testes Postman:
+
+<img src="https://github.com/fpreviatti/API-Conversao-inteiro-num-extenso/blob/main/postman.png" width="400px" height="auto">
