@@ -22,7 +22,6 @@ public class CurrencyWriter {
     private static final String PARTICULA_DESCRITIVA = "de";
 
     private static final BigDecimal MAX_SUPPORTED_VALUE = new BigDecimal("999999999999999999999999999.99");
-
     private static CurrencyWriter instance = null;
 
     public static CurrencyWriter getInstance() {
