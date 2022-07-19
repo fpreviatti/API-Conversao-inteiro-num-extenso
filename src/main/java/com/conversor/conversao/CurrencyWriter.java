@@ -42,7 +42,6 @@ public class CurrencyWriter {
     public String write(final BigDecimal amount) {
         if (null == amount) {throw new IllegalArgumentException();}
 
-
         BigDecimal value = amount.setScale(2, BigDecimal.ROUND_HALF_EVEN);
 
         if (value.compareTo(BigDecimal.ZERO) <= 0) {return "";}
