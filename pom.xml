@@ -34,7 +34,6 @@
             <version>2.5.4</version>
         </dependency>
 
-
 		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
 		<dependency>
 			<groupId>com.googlecode.json-simple</groupId>
@@ -49,8 +48,7 @@
 			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
-
-
+		
 	</dependencies>
 
 	<build>
